@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name            cvmblaster
-// @description     cvmblaster
+// @name            fylrobot3
+// @description     fy
 // @license         ISC; https://github.com/ekix7/cvmblaster/LICENSE
 // @namespace       https://github.com/ekix7/cvmblaster
 // @version         1.1.0
